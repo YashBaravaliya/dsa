@@ -24,4 +24,9 @@
         /* background: #000; */
         gap: 10px;
     }
+
+    .home-2{
+        flex-wrap: wrap-reverse;
+        /* background: #000; */
+    }
   }
