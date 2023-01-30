@@ -29,4 +29,10 @@
         flex-wrap: wrap-reverse;
         /* background: #000; */
     }
+
+    .course-box{
+        width: 90vw;
+        height: 150px;
+    }
+
   }
