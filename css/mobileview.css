@@ -32,7 +32,27 @@
 
     .course-box{
         width: 90vw;
-        height: 150px;
+        height: 190px;
+    }
+
+
+    .course-box img{
+        height: 50px;
+    }
+
+    .course-text{
+        font-size: 12px;
+        height: 110px;
+    }
+
+    .course-text p{
+        height: 50px;
+        overflow: hidden;
+        /* background: #000; */
+    }
+
+    .course-text .course-btn{
+        right: 10px;
     }
 
 
