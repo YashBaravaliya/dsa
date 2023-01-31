@@ -35,4 +35,19 @@
         height: 150px;
     }
 
+
+    .content .form-box{
+        flex-direction: column;
+        padding: 20px;
+        margin: 54px 10px 20px ;
+    }
+
+    .sidecolor{
+        display: none;
+    }
+
+    .content  img{
+        width: 90vw;
+    }
+
   }
