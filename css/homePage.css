@@ -28,6 +28,10 @@ nav ul a{
     color: black;
 }
 
+nav img{
+    height: 30px;
+}
+
 /* --------------this is 1st home page-------------------------- */
 
 .home-1{
